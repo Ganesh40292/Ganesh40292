@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ganesh40292&color=blue)
 
 <h1 align="center">Hi 👋, I'm Ganesh Prasad</h1>
-<h3 align="center">💻 Computer Science Student | 🚀 Full Stack Developer | ⚛ React Learner</h3>
+<h3 align="center">💻 Computer Science Student | 🚀 Full Stack Developer </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;React+Developer;Building+Projects+and+Learning+Everyday"/>
