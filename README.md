@@ -70,15 +70,24 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/ganeshprasad40292">
 <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<a href="mailto:ganeshprasadnayak292@gmail.com">
+<img src="https://img.shields.io/badge/Email-ganeshprasadnayak292%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Ganesh40292">
+<img src="https://img.shields.io/badge/GitHub-Ganesh40292-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
----
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and projects.**
 
