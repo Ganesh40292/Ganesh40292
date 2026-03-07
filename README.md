@@ -1,7 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ganesh40292&color=blue)
 
 <h1 align="center">Hi 👋, I'm Ganesh Prasad</h1>
-<h1 align="center">Hi 👋, I'm Ganesh Prasad</h1>
 <h3 align="center">Computer Science Student | Full Stack Developer | React Learner</h3>
 
 <p align="center">
