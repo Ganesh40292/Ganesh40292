@@ -1,8 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ganesh40292&color=blue)
 
-<h1 align="center">Hi 👋, I'm Ganesh Prasad</h1>
-<!-- Banner -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=200&section=header&text=Ganesh%20Prasad&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
