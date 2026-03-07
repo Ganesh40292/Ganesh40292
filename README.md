@@ -73,11 +73,10 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/github-contribution-grid-snake.svg"/>
+![Snake animation](https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/github-contribution-grid-snake.svg)
 
 </p>
 
