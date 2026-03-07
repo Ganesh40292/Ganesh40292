@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=200&section=header&text=Ganesh%20Prasad&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ganesh Prasad</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | React Learner</h3>
+<h3 align="center">Computer Science Student | Full Stack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;React+Developer;Building+Projects+and+Learning+Everyday"/>
