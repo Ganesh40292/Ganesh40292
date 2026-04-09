@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=200&section=header&text=Ganesh%20Prasad&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">Computer Science Student | Full Stack Developer</h3>
+<h3 align="center">Computer Science Student </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;React+Developer;Building+Projects+and+Learning+Everyday"/>
@@ -38,17 +38,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
-</p>
-
----
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ganesh40292&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ganesh40292&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
 </p>
 
 ---
