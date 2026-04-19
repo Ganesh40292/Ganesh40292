@@ -7,7 +7,7 @@
 <h3 align="center">Computer Science Student </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;React+Developer;Building+Projects+and+Learning+Everyday"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Building+Projects+and+Learning+Everyday"/>
 </p>
 
 <p align="center">
