@@ -10,9 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Building+Projects+and+Learning+Everyday"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+
 
 ---
 
