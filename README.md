@@ -94,9 +94,10 @@ A full-stack blogging application supporting user authentication, post managemen
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh40292&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh40292&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ganesh40292&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ganesh40292&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
 </p>
+
 
 ---
 
