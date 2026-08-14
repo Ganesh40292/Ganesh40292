@@ -12,13 +12,46 @@
 
 # 👨‍💻 About Me
 
-🎓 **Computer Science Engineering Student** | VTU
-💻 **Full Stack Developer** passionate about building practical web applications
-☕ Working with **Java, Spring Boot, React, MySQL & REST APIs**
-🚀 Building **real-world projects** and continuously improving my development skills
-🔐 Interested in **Backend Development, APIs, Databases & Software Engineering**
-📚 Currently learning, building, and exploring modern technologies
-📍 **Udupi, Karnataka, India**
+<p align="left">
+
+🎓 <b>Computer Science Engineering Student</b>
+   ↳ <i>VTU | 7th Semester</i>
+
+<br>
+
+💻 <b>Full Stack Developer</b>
+   ↳ <i>Building modern and practical web applications</i>
+
+<br>
+
+☕ <b>Java & Spring Boot Enthusiast</b>
+   ↳ <i>Developing secure and scalable backend systems</i>
+
+<br>
+
+⚛️ <b>Frontend Developer</b>
+   ↳ <i>Creating responsive interfaces with modern web technologies</i>
+
+<br>
+
+🗄️ <b>Database & API Explorer</b>
+   ↳ <i>Working with MySQL, REST APIs and backend architecture</i>
+
+<br>
+
+🚀 <b>Project Builder</b>
+   ↳ <i>Turning ideas into real-world projects</i>
+
+<br>
+
+📚 <b>Always Learning</b>
+   ↳ <i>Exploring new technologies and improving my development skills</i>
+
+<br>
+
+📍 <b>Based in Udupi, Karnataka, India</b>
+
+</p>
 
 ---
 
