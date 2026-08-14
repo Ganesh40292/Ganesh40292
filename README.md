@@ -53,11 +53,11 @@
 
 # 🚀 Featured Projects
 
-### 🌱 LifeOS — Personal Productivity & Management Platform
+### 💧 Aqualytica — IoT Water Quality Monitoring & ML System *(Ongoing)*
 
-A full-stack productivity platform designed to manage different aspects of everyday life from a single dashboard.
+An **IoT-based smart water quality monitoring and anomaly detection system** combining ESP32 sensors, Machine Learning, and full-stack technologies to analyze water quality and provide preliminary potable/not-potable predictions through an interactive web dashboard.
 
-**Tech Stack:** React • Spring Boot • MySQL • REST APIs • JWT • Docker
+**Tech Stack:** ESP32 • Python • Machine Learning • Random Forest • Flask • React • Spring Boot • MySQL
 
 ---
 
@@ -74,6 +74,7 @@ A full-stack quiz platform with authentication, timed quizzes, scoring, and an a
 A full-stack blogging application supporting user authentication, post management, and comments.
 
 **Tech Stack:** React • Spring Boot • MySQL • Spring Security • JWT
+
 
 ---
 
