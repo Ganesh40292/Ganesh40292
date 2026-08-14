@@ -68,7 +68,7 @@
 </a>
 
 <a href="mailto:ganeshprasad29240.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-ganeshprasad292%40.devgmail.com-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-ganeshprasad29240.dev%gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Ganesh40292">
