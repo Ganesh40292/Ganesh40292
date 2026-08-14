@@ -12,11 +12,13 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Student
-💻 Passionate about **Full Stack Development**
-⚛ Currently learning **React & modern web technologies**
-🚀 Building real-world projects
-📍 Based in **Udupi, Karnataka, India**
+🎓 **Computer Science Engineering Student** | VTU
+💻 **Full Stack Developer** passionate about building practical web applications
+☕ Working with **Java, Spring Boot, React, MySQL & REST APIs**
+🚀 Building **real-world projects** and continuously improving my development skills
+🔐 Interested in **Backend Development, APIs, Databases & Software Engineering**
+📚 Currently learning, building, and exploring modern technologies
+📍 **Udupi, Karnataka, India**
 
 ---
 
