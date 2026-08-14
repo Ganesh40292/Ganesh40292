@@ -13,12 +13,12 @@
 # 👨‍💻 About Me
 
 🎓 **Computer Science Engineering Student** — VTU, 7th Semester<br>
-💻 **Full Stack Developer** — Building practical web applications<br>
-☕ **Java & Spring Boot Developer** — Developing backend systems and REST APIs<br>
-🌐 **Web Developer** — Creating responsive and user-friendly interfaces<br>
-🗄️ **Database Enthusiast** — Working with MySQL and database design<br>
-🚀 **Project Builder** — Turning ideas into real-world projects<br>
-📚 **Continuous Learner** — Exploring new technologies and improving my skills<br>
+💻 **Aspiring Full Stack Developer** — Learning to build practical web applications<br>
+☕ **Java & Spring Boot Learner** — Exploring backend development and REST APIs<br>
+🌐 **Web Development Enthusiast** — Learning to create responsive and user-friendly interfaces<br>
+🗄️ **Database Learner** — Working with MySQL and database fundamentals<br>
+🚀 **Project Builder** — Turning what I learn into real-world projects<br>
+📚 **Continuous Learner** — Exploring technologies and improving my development skills<br>
 📍 **Udupi, Karnataka, India**
 
 ---
