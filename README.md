@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0077ff,50:00c6ff,100:00f7ff&height=220&section=header&text=Ganesh%20Prasad&fontSize=42&fontColor=ffffff&animation=twinkling&stroke=00f7ff&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:0077ff,70:00c6ff,100:020024&height=220&section=header&text=GANESH%20PRASAD&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 <h3 align="center">Computer Science Student </h3>
 
