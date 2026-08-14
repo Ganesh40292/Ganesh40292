@@ -31,7 +31,7 @@
 
 ---
 
-# 🚀 Programming Languages
+🚀 Programming & Query Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql"/>
