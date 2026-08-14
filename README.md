@@ -21,12 +21,18 @@
 📚 **Continuous Learner** — Exploring technologies and improving my development skills<br>
 📍 **Udupi, Karnataka, India**
 
+<p align="center">
+  <a href="https://ganesh-prasad-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0077ff?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
-# 🚀 Programming Languages & Technologies
+# 🚀 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,react,spring,mysql"/>
+  <img src="https://skillicons.dev/icons?i=java,python"/>
 </p>
 
 ---
@@ -34,7 +40,7 @@
 # 🛠 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,spring,mysql,git,github,vscode,docker,postman"/>
 </p>
 
 ---
@@ -42,11 +48,11 @@
 # 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html"/>
 </p>
 
 <p align="center">
-  <b>Java • Spring Boot • REST APIs • React • Database Design</b>
+  <b>Java • Spring Boot • React • SQL • HTML</b>
 </p>
 
 ---
@@ -75,7 +81,6 @@ A full-stack blogging application supporting user authentication, post managemen
 
 **Tech Stack:** React • Spring Boot • MySQL • Spring Security • JWT
 
-
 ---
 
 # 🔥 GitHub Streak
@@ -99,7 +104,6 @@ A full-stack blogging application supporting user authentication, post managemen
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ganesh40292&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
-
 ---
 
 # 🌐 Connect With Me
@@ -112,10 +116,6 @@ A full-stack blogging application supporting user authentication, post managemen
 
 <a href="mailto:ganeshprasad29240.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-ganeshprasad29240.dev@gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Ganesh40292">
-  <img src="https://img.shields.io/badge/GitHub-Ganesh40292-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
