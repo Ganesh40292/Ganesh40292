@@ -34,9 +34,9 @@
 # 🚀 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,sql,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
-
 
 ---
 
