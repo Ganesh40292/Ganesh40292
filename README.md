@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0077ff,100:00c6ff&height=200&section=header&text=Ganesh%20Prasad&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0077ff,50:00c6ff,100:00f7ff&height=220&section=header&text=Ganesh%20Prasad&fontSize=42&fontColor=ffffff&animation=twinkling&stroke=00f7ff&strokeWidth=2"/>
 </p>
-
 <h3 align="center">Computer Science Student </h3>
 
 <p align="center">
