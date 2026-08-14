@@ -29,7 +29,7 @@
 # 🚀 Programming Languages & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,c,python,mongodb,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,java,python,react"/>
 </p>
 
 ---
