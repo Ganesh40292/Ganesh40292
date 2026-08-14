@@ -67,8 +67,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:ganeshprasadnayak292@gmail.com">
-<img src="https://img.shields.io/badge/Email-ganeshprasadnayak292%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:ganeshprasad29240.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-ganeshprasad292%40.devgmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Ganesh40292">
