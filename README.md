@@ -34,8 +34,9 @@
 # 🚀 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python"/>
+  <img src="https://skillicons.dev/icons?i=java,python,sql,html,css"/>
 </p>
+
 
 ---
 
