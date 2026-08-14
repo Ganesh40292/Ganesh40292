@@ -20,6 +20,7 @@
 🚀 **Project Builder** — Turning what I learn into real-world projects<br>
 📚 **Continuous Learner** — Exploring technologies and improving my development skills<br>
 📍 **Udupi, Karnataka, India**
+
 ---
 
 <p align="center">
