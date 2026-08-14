@@ -14,45 +14,44 @@
 
 <p align="left">
 
-🎓 <b>Computer Science Engineering Student</b>
-   ↳ <i>VTU | 7th Semester</i>
+🎓 <b>Computer Science Engineering Student</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;💡 7th Semester | VTU
 
-<br>
+<br><br>
 
-💻 <b>Full Stack Developer</b>
-   ↳ <i>Building modern and practical web applications</i>
+💻 <b>Full Stack Developer</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 Building practical and real-world web applications
 
-<br>
+<br><br>
 
-☕ <b>Java & Spring Boot Enthusiast</b>
-   ↳ <i>Developing secure and scalable backend systems</i>
+☕ <b>Java & Spring Boot Developer</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;⚡ Developing secure and scalable backend systems
 
-<br>
+<br><br>
 
-⚛️ <b>Frontend Developer</b>
-   ↳ <i>Creating responsive interfaces with modern web technologies</i>
+🌐 <b>Web Development</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 Creating responsive and user-friendly interfaces
 
-<br>
+<br><br>
 
-🗄️ <b>Database & API Explorer</b>
-   ↳ <i>Working with MySQL, REST APIs and backend architecture</i>
+🗄️ <b>Backend & Database</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 Working with REST APIs, MySQL and backend architecture
 
-<br>
+<br><br>
 
-🚀 <b>Project Builder</b>
-   ↳ <i>Turning ideas into real-world projects</i>
+🚀 <b>Project Builder</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Turning ideas into functional real-world projects
 
-<br>
+<br><br>
 
-📚 <b>Always Learning</b>
-   ↳ <i>Exploring new technologies and improving my development skills</i>
+📚 <b>Continuous Learner</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Exploring new technologies and improving every day
 
-<br>
+<br><br>
 
-📍 <b>Based in Udupi, Karnataka, India</b>
+📍 <b>Udupi, Karnataka, India</b>
 
 </p>
-
 ---
 
 # 🚀 Programming Languages & Technologies
