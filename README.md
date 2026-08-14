@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:0077ff,70:00c6ff,100:020024&height=220&section=header&text=GANESH%20PRASAD&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/></p>
-<h3 align="center">Computer Science Student </h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Building+Projects+and+Learning+Everyday"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:0077ff,70:00c6ff,100:020024&height=220&section=header&text=GANESH%20PRASAD&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
+<h3 align="center">Computer Science Engineering Student | Aspiring Full Stack Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Building+Projects+and+Learning+Everyday;Turning+Ideas+into+Real-World+Applications"/>
+</p>
 
 ---
 
@@ -26,7 +26,7 @@
 # 🚀 Programming Languages & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,python,react"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,react,spring,mysql"/>
 </p>
 
 ---
@@ -34,18 +34,54 @@
 # 🛠 Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
 </p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql"/>
+</p>
+
+<p align="center">
+  <b>Java • Spring Boot • REST APIs • React • Database Design</b>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌱 LifeOS — Personal Productivity & Management Platform
+
+A full-stack productivity platform designed to manage different aspects of everyday life from a single dashboard.
+
+**Tech Stack:** React • Spring Boot • MySQL • REST APIs • JWT • Docker
+
+---
+
+### 🧠 Interactive Quiz Application
+
+A full-stack quiz platform with authentication, timed quizzes, scoring, and an admin dashboard for managing questions.
+
+**Tech Stack:** React • Spring Boot • MySQL • Spring Security • JWT
+
+---
+
+### ✍️ Blogging Platform
+
+A full-stack blogging application supporting user authentication, post management, and comments.
+
+**Tech Stack:** React • Spring Boot • MySQL • Spring Security • JWT
 
 ---
 
 # 🔥 GitHub Streak
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak" />
 </p>
-
 
 # 🐍 Contribution Snake
 
@@ -55,27 +91,40 @@
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh40292&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh40292&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ganeshprasad40292">
-<img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:ganeshprasad29240.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-ganeshprasad29240.dev@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-ganeshprasad29240.dev@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Ganesh40292">
-<img src="https://img.shields.io/badge/GitHub-Ganesh40292-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Ganesh40292-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and projects.**
+---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=120&section=footer"/>
+  ⭐ <b>Thanks for visiting my profile!</b><br>
+  Feel free to explore my repositories and projects.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=120&section=footer"/>
 </p>
