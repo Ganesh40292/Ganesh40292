@@ -1,23 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=230&section=header&text=GANESH%20PRASAD&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:0077ff,70:00c6ff,100:020024&height=220&section=header&text=GANESH%20PRASAD&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-<div align="center">
-
-  ![](https://img.shields.io/badge/-Aspiring%20Full%20Stack%20Developer-0077ff?style=flat-square)
-  ![](https://img.shields.io/badge/-Java-ED8B00?style=flat-square)
-  ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square)
-  ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
-
-</div>
+<h3 align="center">Computer Science Engineering Student | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+Full-Stack+%26+ML-Powered+Projects;Turning+Ideas+into+Real-World+Applications;Currently+Exploring+Spring+Boot+%2B+React"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Building+Projects+and+Learning+Everyday;Turning+Ideas+into+Real-World+Applications"/>
 </p>
 
 <p align="center">
   <a href="https://ganesh-prasad-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-0077ff?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-0077ff?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ganeshprasad40292">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,7 +18,6 @@
   <a href="mailto:ganeshprasad29240.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=0077ff&style=for-the-badge"/>
 </p>
 
 ---
@@ -37,13 +29,11 @@
 💻 Focus:          Aspiring Full Stack Developer
 ☕ Backend:        Java · Spring Boot · REST APIs
 🌐 Frontend:       React · Responsive, User-Friendly UIs
-🗄️ Database:       MySQL · Database Fundamentals
+🗄️ Database:       MySQL · PostgreSQL · Database Fundamentals
 🚀 Mindset:        Turning what I learn into real-world projects
+📚 Learning:       DSA · System Design Fundamentals · Full Stack Development
 📍 Location:       Udupi, Karnataka, India
 ```
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -70,157 +60,116 @@
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql"/>
 </p>
 
 <p align="center">
-  <b>Java • Spring Boot • React • SQL • System Design Fundamentals</b>
+  <b>Java • Spring Boot • React • SQL • DSA • System Design Fundamentals</b>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💧 Aqualytica — IoT Water Quality Monitoring & ML System *(Ongoing)*
 
-### 💧 Aqualytica
-**IoT Water Quality Monitoring & ML System** *(Ongoing)*
+An **IoT-based smart water quality monitoring and anomaly detection system** combining ESP32 sensors, Machine Learning, and full-stack technologies to analyze water quality and provide preliminary potable/not-potable predictions through an interactive web dashboard.
 
-An IoT-based smart water quality monitoring and anomaly detection system combining ESP32 sensors, Machine Learning, and full-stack technologies to analyze water quality and deliver preliminary potable / not-potable predictions through an interactive web dashboard.
-
-`ESP32` `Python` `Machine Learning` `Random Forest` `Flask` `React` `Spring Boot` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Interactive Quiz Application
-**Full-Stack Quiz Platform**
-
-A full-stack quiz platform with authentication, timed quizzes, automated scoring, and an admin dashboard for managing questions.
-
-`React` `Spring Boot` `MySQL` `Spring Security` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✍️ Blogging Platform
-**Full-Stack Blog Application**
-
-A full-stack blogging application supporting user authentication, post management, and threaded comments.
-
-`React` `Spring Boot` `MySQL` `Spring Security` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-**Personal Developer Portfolio**
-
-A showcase of my projects, skills, and journey as an aspiring full-stack developer.
-
-[**View Live →**](https://ganesh-prasad-portfolio.vercel.app)
-
-</td>
-</tr>
-</table>
+**Tech Stack:** `ESP32` • `Python` • `Machine Learning` • `Random Forest` • `Flask` • `React` • `Spring Boot` • `MySQL`
 
 ---
 
-# 🐍 Contribution Snake
+### 🧠 Interactive Quiz Application
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/github-contribution-grid-snake.svg"/>
-</p>
+A full-stack quiz platform with authentication, timed quizzes, automated scoring, and an admin dashboard for managing questions.
+
+**Tech Stack:** `React` • `Spring Boot` • `MySQL` • `Spring Security` • `JWT`
+
+---
+
+### ✍️ Blogging Platform
+
+A full-stack blogging application supporting user authentication, post management, and threaded comments.
+
+**Tech Stack:** `React` • `Spring Boot` • `PostgreSQL` • `Spring Security` • `JWT`
+
+---
+
+### 🌐 Portfolio Website
+
+A personal developer portfolio showcasing my projects, technical skills, and journey as an aspiring full-stack developer.
+
+**[View Live Portfolio →](https://ganesh-prasad-portfolio.vercel.app)**
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak" />
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ganesh40292&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ganesh40292&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh40292&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<h2>🧊 3D Contribution Graph</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/profile-3d-contrib/profile-night-rainbow.svg" 
-    alt="3D Contribution Graph"
-  />
+  <img src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
-<blockquote>
-This animated 3D graph is generated by the <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><code>github-profile-3d-contrib</code></a> GitHub Action. It rebuilds daily from your real contribution data. One-time setup:
+---
 
-1. In this repo, go to **Settings → Secrets and variables → Actions**, no extra secret needed (it uses the built-in `GITHUB_TOKEN`).
-2. Add a workflow file at `.github/workflows/profile-3d.yml`:
-   ```yaml
-   name: 3D Profile Contribution Graph
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-     push:
-       branches: [ main ]
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       permissions:
-         contents: write
-       steps:
-         - uses: actions/checkout@v4
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         - uses: stefanzweifel/git-auto-commit-action@v5
-           with:
-             branch: output
-             commit_message: "Update 3D contribution graph"
-             create_branch: true
-   ```
-3. Push it — the Action creates an `output` branch with `profile-night-rainbow.svg`, matching the image path above.
-</blockquote>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ganesh40292&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ganesh40292&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh40292&theme=github-compact&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganeshprasad40292">
-    <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:ganeshprasad29240.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ganeshprasad29240.dev@gmail.com-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://ganesh-prasad-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0077ff?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/ganeshprasad40292">
+  <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ganeshprasad29240.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ganeshprasad29240.dev@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://ganesh-prasad-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0077ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
-<div align="center">
-
-  ⭐ **Thanks for visiting my profile!**
-  Feel free to explore my repositories, star what you like, and reach out if you'd like to collaborate.
-
-</div>
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  ⭐ <b>Thanks for visiting my profile!</b>
+  <br>
+  Feel free to explore my repositories, projects, and journey.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=blue&style=flat"/>
 </p>
