@@ -1,8 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:0077ff,70:00c6ff,100:020024&height=220&section=header&text=GANESH%20PRASAD&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=230&section=header&text=GANESH%20PRASAD&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18&animation=twinkling"/>
 </p>
 
-<h3 align="center">🚀 Computer Science Engineering Student | Aspiring Full Stack Developer | Building with Java, Spring Boot & React</h3>
+<div align="center">
+
+  ![](https://img.shields.io/badge/-Aspiring%20Full%20Stack%20Developer-0077ff?style=flat-square)
+  ![](https://img.shields.io/badge/-Java-ED8B00?style=flat-square)
+  ![](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square)
+  ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+Full-Stack+%26+ML-Powered+Projects;Turning+Ideas+into+Real-World+Applications;Currently+Exploring+Spring+Boot+%2B+React"/>
@@ -161,7 +168,7 @@ A showcase of my projects, skills, and journey as an aspiring full-stack develop
   <a href="https://www.linkedin.com/in/ganeshprasad40292">
     <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:ganeshprasad40292.dev@gmail.com">
+  <a href="mailto:ganeshprasad29240.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-ganeshprasad29240.dev@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://ganesh-prasad-portfolio.vercel.app">
@@ -169,11 +176,13 @@ A showcase of my projects, skills, and journey as an aspiring full-stack develop
   </a>
 </p>
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b><br>
+<div align="center">
+
+  ⭐ **Thanks for visiting my profile!**
   Feel free to explore my repositories, star what you like, and reach out if you'd like to collaborate.
-</p>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </p>
