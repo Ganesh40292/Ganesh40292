@@ -104,10 +104,13 @@ A full-stack blogging application supporting user authentication, post managemen
   <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak" />
 </p>
 
-# 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/github-contribution-grid-snake.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 
