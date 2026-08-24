@@ -7,23 +7,14 @@ on:
   push:
     branches: [ main ]
 
-concurrency:
-  group: output-branch
-  cancel-in-progress: false
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -34,26 +25,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update output branch
-        run: |
-          git fetch origin output || true
-
-          if git show-ref --verify --quiet refs/remotes/origin/output; then
-            git worktree add /tmp/output origin/output
-          else
-            git worktree add --orphan /tmp/output
-          fi
-
-          cp dist/github-contribution-grid-snake.svg /tmp/output/
-          cp dist/github-contribution-grid-snake-dark.svg /tmp/output/
-
-          cd /tmp/output
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-
-          git diff --cached --quiet || git commit -m "Update contribution snake"
-
-          git push origin HEAD:output --force
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
