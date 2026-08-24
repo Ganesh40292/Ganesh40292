@@ -30,8 +30,6 @@
 ☕ Backend:        Java · Spring Boot · REST APIs
 🌐 Frontend:       React · Responsive, User-Friendly UIs
 🗄️ Databases:     MySQL · PostgreSQL · Database Fundamentals
-🚀 Mindset:        Turning what I learn into real-world projects
-📚 Learning:       DSA · System Design Fundamentals · Full Stack Development
 📍 Location:       Udupi, Karnataka, India
 
 ## 🚀 Tech Stack
