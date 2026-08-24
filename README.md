@@ -95,11 +95,6 @@ A full-stack blogging application supporting user authentication, post managemen
 
 ---
 
-### 🌐 Portfolio Website
-
-A personal developer portfolio showcasing my projects, technical skills, and journey as an aspiring full-stack developer.
-
-**[View Live Portfolio →](https://ganesh-prasad-portfolio.vercel.app)**
 
 ---
 
