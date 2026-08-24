@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <b>Java • Spring Boot • React • SQL •</b>
+  <b>Java • Spring Boot • React • SQL</b>
 </p>
 
 ---
@@ -96,13 +96,6 @@ A full-stack blogging application supporting user authentication, post managemen
 ---
 
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak" />
-</p>
 
 <!-- 🐍 Contribution Snake -->
 <h2>🐍 Contribution Snake</h2>
