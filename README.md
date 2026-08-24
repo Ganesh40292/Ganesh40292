@@ -154,14 +154,6 @@ A showcase of my projects, skills, and journey as an aspiring full-stack develop
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh40292&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
