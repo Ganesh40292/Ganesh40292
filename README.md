@@ -115,7 +115,6 @@ A full-stack blogging application supporting user authentication, post managemen
 </p>
 
 
-
 ---
 
 ## 📊 GitHub Statistics
