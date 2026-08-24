@@ -157,10 +157,13 @@ A showcase of my projects, skills, and journey as an aspiring full-stack develop
 
 ---
 
-## 🧊 3D Contribution Graph
+<h2>🧊 3D Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+  <img 
+    src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/profile-3d-contrib/profile-night-rainbow.svg" 
+    alt="3D Contribution Graph"
+  />
 </p>
 
 <blockquote>
