@@ -14,18 +14,23 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate custom 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Ganesh40292
+          SETTING_JSON: custom-3d-settings.json
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           branch: output
           commit_message: "Update 3D contribution graph"
