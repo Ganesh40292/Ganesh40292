@@ -103,13 +103,11 @@ A personal developer portfolio showcasing my projects, technical skills, and jou
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak" />
 </p>
-
----
 
 # 🐍 Contribution Snake
 
