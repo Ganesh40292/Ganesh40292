@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=blue&style=flat"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:0077ff,70:00c6ff,100:020024&height=220&section=header&text=GANESH%20PRASAD&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
@@ -135,4 +132,8 @@ A full-stack blogging application supporting user authentication, post managemen
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=120&section=footer"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=blue&style=flat"/>
 </p>
