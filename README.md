@@ -95,7 +95,6 @@ A full-stack blogging application supporting user authentication, post managemen
 ---
 
 
-<!-- 🐍 Contribution Snake -->
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
