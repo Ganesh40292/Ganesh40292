@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <b>Java • Spring Boot • React • SQL • DSA • System Design Fundamentals</b>
+  <b>Java • Spring Boot • React • SQL •</b>
 </p>
 
 ---
