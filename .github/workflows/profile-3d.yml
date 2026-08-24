@@ -20,17 +20,17 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
-      - name: Generate custom 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.9.3
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Ganesh40292
           SETTING_JSON: custom-3d-settings.json
 
       - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: output
           commit_message: "Update 3D contribution graph"
