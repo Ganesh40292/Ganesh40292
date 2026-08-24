@@ -127,14 +127,12 @@ A full-stack blogging application supporting user authentication, post managemen
 
 ---
 
-## 🧊 3D Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ganesh40292/Ganesh40292/output/profile-3d-contrib/profile-custom-evergreen.svg"
-    alt="3D Contribution Graph"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Ganesh40292&theme=github-dark" alt="GitHub Streak" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
