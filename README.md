@@ -25,15 +25,15 @@
 ## 👨‍💻 About Me
 
 ```yaml
-🎓 Education:      Computer Science Engineering, VTU — 7th Semester
+🎓 Education:      B.E. in Computer Science & Engineering, VTU — 7th Semester
 💻 Focus:          Aspiring Full Stack Developer
 ☕ Backend:        Java · Spring Boot · REST APIs
 🌐 Frontend:       React · Responsive, User-Friendly UIs
-🗄️ Database:       MySQL · PostgreSQL · Database Fundamentals
+🗄️ Databases:     MySQL · PostgreSQL · Database Fundamentals
 🚀 Mindset:        Turning what I learn into real-world projects
 📚 Learning:       DSA · System Design Fundamentals · Full Stack Development
 📍 Location:       Udupi, Karnataka, India
-```
+
 ## 🚀 Tech Stack
 
 <p align="center">
