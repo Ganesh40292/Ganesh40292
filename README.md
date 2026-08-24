@@ -31,6 +31,7 @@
 🌐 Frontend:       React · Responsive, User-Friendly UIs
 🗄️ Databases:     MySQL · PostgreSQL · Database Fundamentals
 📍 Location:       Udupi, Karnataka, India
+```
 
 ## 🚀 Tech Stack
 
