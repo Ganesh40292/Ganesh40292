@@ -164,9 +164,6 @@ A full-stack blogging application supporting user authentication, post managemen
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=120&section=footer"/>
 </p>
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-GitHub-blue?style=flat"
-       alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
