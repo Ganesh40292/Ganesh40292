@@ -165,7 +165,8 @@ A full-stack blogging application supporting user authentication, post managemen
 </p>
 
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=0e75b6&style=flat"
-       alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-GitHub-blue?style=flat"
+       alt="GitHub Profile Views" />
 </p>
