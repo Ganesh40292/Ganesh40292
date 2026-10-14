@@ -167,6 +167,5 @@ A full-stack blogging application supporting user authentication, post managemen
 
 
 <p align="center">
-  <img src="https://viewcounter.live/Ganesh40292" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=blue&style=flat"/>
 </p>
-
