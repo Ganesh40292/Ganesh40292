@@ -166,8 +166,9 @@ A full-stack blogging application supporting user authentication, post managemen
 
 
 
-
 <p align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=Ganesh40292&label=Profile%20Views&rightColor=0e75b6"
-       alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ganesh40292&label=Profile%20Views&color=0e75b6&style=flat"
+       alt="Profile Views" />
 </p>
+
+
